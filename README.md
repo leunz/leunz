@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=282828&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=103010"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=30&pause=1000&color=124C12&center=true&vCenter=true&width=435&lines=Adir+Leonardo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&pause=1000&color=124C12&center=true&vCenter=true&repeat=false&width=435&lines=Adir+Leonardo+Arruda+Brasil" alt="Typing SVG" /></a>
 </div>
 
 <!-- 
@@ -27,4 +27,20 @@ Here are some ideas to get you started:
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leunz&theme=merko"/>
+</div>
+
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adirlab99@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leunz)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leunz/)
+  
 </div>
